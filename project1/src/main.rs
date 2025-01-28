@@ -10,5 +10,5 @@ fn main() -> Result<(), String> {
     // コードが簡潔なのに注目！
     let v = do_something_that_might_fail(432)?;
     println!("発見 {}", v);
-    Ok(())
+    Ok(())h
 }
