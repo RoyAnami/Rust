@@ -11,4 +11,4 @@ fn main() -> Result<(), String> {
     let v = do_something_that_might_fail(432)?;
     println!("発見 {}", v);
     Ok(())
-}
+}a
